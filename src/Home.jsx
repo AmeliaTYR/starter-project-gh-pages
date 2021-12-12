@@ -20,6 +20,8 @@ class Home extends React.Component {
                     Learn React
                 </a>
                 </header>
+
+                <p>Test home content</p>
             </div>
             
         );

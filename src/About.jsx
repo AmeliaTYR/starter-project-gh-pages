@@ -13,6 +13,8 @@ class About extends React.Component {
                 <main>
                     <p>This section contains information about...</p>
                 </main>
+
+                
             </div>
         )
     }

@@ -29,7 +29,7 @@ class App extends React.Component {
             <Route path="*" render={() => <Navigate  to={"/home"} />} />
           </Routes>
           </div>
-            );
+      );
   }
 }
 
